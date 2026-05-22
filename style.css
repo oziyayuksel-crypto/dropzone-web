@@ -1,0 +1,34 @@
+/*
+========================================
+DROPZONE - Premium Gaming E-Pin Store
+style.css
+========================================
+
+This stylesheet is designed for the Dropzone Premium Gaming E-Pin Store, providing a modern and visually appealing interface. It includes various sections such as the navbar, hero section, catalog, and footer, each styled with unique properties to enhance user experience.
+
+Key Features:
+- Utilizes Google Fonts for typography.
+- Implements CSS variables for easy theme management.
+- Contains responsive design elements for various screen sizes.
+- Includes animations and transitions for interactive elements.
+- Features a mobile menu for better accessibility on smaller devices.
+- Provides a visually engaging hero section with animated backgrounds and particles.
+- Implements a catalog section with game tabs and crate cards for showcasing products.
+- Includes modals for crate opening and detailed views of items.
+
+Sections:
+1. Reset & Base Styles
+2. Navbar Styles
+3. Hero Section Styles
+4. Catalog Section Styles
+5. Modal Styles
+6. About Section Styles
+7. Footer Styles
+8. Confetti/Fireworks Effects
+9. Glow Effects
+10. Responsive Styles
+11. Animations
+
+Each section is carefully crafted to ensure a cohesive design language throughout the application, enhancing both aesthetics and functionality.
+========================================
+*/
